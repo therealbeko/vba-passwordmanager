@@ -1,1 +1,4 @@
 # vba-passwordmanager
+<hr>
+
+## Requirements
